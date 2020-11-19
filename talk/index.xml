@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks | Abirami</title>
-    <link>abirami-r.github.io/talk/</link>
-      <atom:link href="abirami-r.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    <link>/talk/</link>
+      <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>2020</copyright><lastBuildDate>Fri, 02 Oct 2020 17:50:00 +0530</lastBuildDate>
     <image>
-      <url>/abirami-r.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>abirami-r.github.io/talk/</link>
+      <link>/talk/</link>
     </image>
     
     <item>
       <title>Self Driving Cars using OpenCV - PyCon India 2020</title>
-      <link>abirami-r.github.io/talk/pycon/</link>
+      <link>/talk/pycon/</link>
       <pubDate>Fri, 02 Oct 2020 17:50:00 +0530</pubDate>
-      <guid>abirami-r.github.io/talk/pycon/</guid>
+      <guid>/talk/pycon/</guid>
       <description>&lt;p&gt;I got the opportunity to deliver a talk at PyCon India 2020. PyCon India is the largest gathering of Python enthusiasts in India. It is a community-run conference celebrating the use of Python Software across a wide variety of industries. The conference was (virtually) attended by more than 600 participants including working professionals, students, and hobbyists. My talk about Self Driving cars was selected from over 200 proposals. My talk explored the use of OpenCV in tackling a variety of challenges related to Self Driving cars. This included topics like obstacle avoidance, lane detection, traffic light, and sign detection, pedestrian detection in detail, and how I implemented it. The talk was well received and it was a great experience for me overall. I got to meet other people who are working on similar projects, hear their ideas, and explore future collaboration.
 &lt;img src=&#34;talk.png&#34; alt=&#34;PyCon Talk&#34;&gt;&lt;/p&gt;
 </description>

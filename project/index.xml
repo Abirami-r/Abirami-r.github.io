@@ -2,84 +2,84 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Abirami</title>
-    <link>abirami-r.github.io/project/</link>
-      <atom:link href="abirami-r.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>/project/</link>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>2020</copyright><lastBuildDate>Thu, 19 Nov 2020 16:20:24 +0530</lastBuildDate>
     <image>
-      <url>/abirami-r.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
-      <link>abirami-r.github.io/project/</link>
+      <link>/project/</link>
     </image>
     
     <item>
       <title>Lane Detection</title>
-      <link>abirami-r.github.io/project/lane-detection/</link>
+      <link>/project/lane-detection/</link>
       <pubDate>Thu, 19 Nov 2020 16:20:24 +0530</pubDate>
-      <guid>abirami-r.github.io/project/lane-detection/</guid>
+      <guid>/project/lane-detection/</guid>
       <description>&lt;p&gt;Lane detection using OpenCV for self-driving cars.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Movie Recommendation System</title>
-      <link>abirami-r.github.io/project/movie-rec/</link>
+      <link>/project/movie-rec/</link>
       <pubDate>Thu, 19 Nov 2020 16:19:50 +0530</pubDate>
-      <guid>abirami-r.github.io/project/movie-rec/</guid>
+      <guid>/project/movie-rec/</guid>
       <description>&lt;p&gt;Built a website to give movie recommendations.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>PiHole</title>
-      <link>abirami-r.github.io/project/pi-hole/</link>
+      <link>/project/pi-hole/</link>
       <pubDate>Thu, 19 Nov 2020 16:18:58 +0530</pubDate>
-      <guid>abirami-r.github.io/project/pi-hole/</guid>
+      <guid>/project/pi-hole/</guid>
       <description>&lt;p&gt;A network-level advertisement and Internet tracker blocking application using Raspberry Pi 3.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Smart Car UROP</title>
-      <link>abirami-r.github.io/project/smartcarurop/</link>
+      <link>/project/smartcarurop/</link>
       <pubDate>Thu, 19 Nov 2020 16:17:35 +0530</pubDate>
-      <guid>abirami-r.github.io/project/smartcarurop/</guid>
+      <guid>/project/smartcarurop/</guid>
       <description>&lt;p&gt;An automatic car using Arduino, IR sensors, ultrasonic sensors, and a camera.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>XToPDF</title>
-      <link>abirami-r.github.io/project/xtopdf/</link>
+      <link>/project/xtopdf/</link>
       <pubDate>Thu, 19 Nov 2020 16:14:04 +0530</pubDate>
-      <guid>abirami-r.github.io/project/xtopdf/</guid>
+      <guid>/project/xtopdf/</guid>
       <description>&lt;p&gt;Conversion of .jpg, .txt files to PDF using Java.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>StudentChain (UC Berkeley)</title>
-      <link>abirami-r.github.io/project/student/</link>
+      <link>/project/student/</link>
       <pubDate>Thu, 19 Nov 2020 16:13:44 +0530</pubDate>
-      <guid>abirami-r.github.io/project/student/</guid>
+      <guid>/project/student/</guid>
       <description>&lt;p&gt;Using Blockchain technology to prevent misuse of student discounts. The project was done in the Blockchain Challenge Lab at UC Berkeley. Led this project which became one of the best projects of the class.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Tutor Finder (CalHacks - UC Berkeley)</title>
-      <link>abirami-r.github.io/project/hack/</link>
+      <link>/project/hack/</link>
       <pubDate>Thu, 19 Nov 2020 16:12:22 +0530</pubDate>
-      <guid>abirami-r.github.io/project/hack/</guid>
+      <guid>/project/hack/</guid>
       <description>&lt;p&gt;Created and trained a chatbot using Landbot to help a student find tutors on an online tutoring platform.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Roadster (UC Berkeley)</title>
-      <link>abirami-r.github.io/project/draw/</link>
+      <link>/project/draw/</link>
       <pubDate>Thu, 19 Nov 2020 16:10:55 +0530</pubDate>
-      <guid>abirami-r.github.io/project/draw/</guid>
+      <guid>/project/draw/</guid>
       <description>&lt;p&gt;Drawbot made from scratch that moves and creates random colorful patterns in circular shapes. Used Arduino Uno, servos, and laser-cut lineages to hold the color pencils.&lt;/p&gt;
 </description>
     </item>
