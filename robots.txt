@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: abirami-r.github.io/sitemap.xml
